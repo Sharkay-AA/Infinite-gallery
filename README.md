@@ -4,4 +4,5 @@
 
 - React Hooks ( useState, useEffect, useRef )
 - Component ( Infinite Scroll)
-- Feature ( API call, Fetch, )
+- API call
+- Fetch
